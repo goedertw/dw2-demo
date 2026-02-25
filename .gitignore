@@ -1,0 +1,7 @@
+*.tmp
+*.log
+*.bin
+*.dll
+*.exe
+html/tmp
+specfiekefile.html
